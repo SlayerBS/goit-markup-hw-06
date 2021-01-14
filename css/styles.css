@@ -710,3 +710,26 @@ a {
   opacity: 0;
   pointer-events: none;
 }
+
+/*form-1*/
+textarea {
+  resize: none;
+}
+
+.form {
+  outline: 1px solid tomato;
+  padding: 40px;
+}
+.form p {
+  color: var(--title-text-color);
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.15;
+  text-align: center;
+  letter-spacing: 0.03em;
+  margin: 0 auto 12px;
+}
+
+.form-field {
+  margin-bottom: 10px;
+}
