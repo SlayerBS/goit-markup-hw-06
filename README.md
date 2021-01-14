@@ -1,1 +1,1 @@
-https://slayerbs.github.io/goit-markup-hw-06/
+https://slayerbs.github.io/goit-markup-hw-05/
