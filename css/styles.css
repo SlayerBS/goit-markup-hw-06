@@ -796,9 +796,11 @@ textarea {
 }
 
 .form-input:active,
-.form-input:focus {
+.form-input:focus,
+.form-input:hover {
   outline: none;
   border-color: var(--accent-color);
+  cursor: pointer;
 }
 
 .form-input::placeholder {
